@@ -13,3 +13,7 @@
 1-DefaultLifecycleObserver  
 2-LifecycleEventObserver  
 -LifeCycleObserver depreceated olduğu için kullanılmadı-
+
+https://github.com/leventsrr/teknikKaralamalar/assets/63983517/3c6ab264-4f12-4962-9b7f-ffdf6b124fa1
+
+
