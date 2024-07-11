@@ -14,6 +14,6 @@
 2-LifecycleEventObserver  
 -LifeCycleObserver depreceated olduğu için kullanılmadı-
 
-https://github.com/leventsrr/teknikKaralamalar/assets/63983517/3c6ab264-4f12-4962-9b7f-ffdf6b124fa1
+https://github.com/leventsrr/teknikKaralamalar/assets/63983517/f7b33dc1-edf0-4dcb-b4c4-14ffa99d1f5c
 
 
